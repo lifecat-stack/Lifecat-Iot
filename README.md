@@ -16,6 +16,8 @@
 
   4 通过KEY1按键复位程序
   
+  ![image](https://github.com/kevinten10/Stm32-lifecat/show.png)
+  
 ## Demo
 
 ![image](https://github.com/kevinten10/Stm32-lifecat/show1.png)
